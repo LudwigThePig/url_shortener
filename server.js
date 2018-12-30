@@ -1,5 +1,4 @@
 'use strict';
-//https://github.com/zzhakupov/url-shortener/blob/master/server.js
 var port = process.env.PORT || 3000;
 var mongodb = require('mongodb');
 var MongoClient = mongodb.MongoClient;

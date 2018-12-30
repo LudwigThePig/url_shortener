@@ -10,5 +10,5 @@
 "https://scarce-missile.glitch.me/new/www.ludwigthepig.com"
 
 ### Output:
-"ttps://scarce-missile.glitch.me/1"
-"ttps://scarce-missile.glitch.me/4"
+"https://scarce-missile.glitch.me/1"
+"https://scarce-missile.glitch.me/4"
